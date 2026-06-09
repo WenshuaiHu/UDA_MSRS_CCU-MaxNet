@@ -13,16 +13,16 @@ Citation
 ---------------------
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-Wen-Shuai Hu, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang, and Ran Tao, "Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2026.3683514.  <br>
+Wen-Shuai Hu, Wei Li, Heng-Chao Li, Xudong Zhao, Mengmeng Zhang, and Ran Tao, "Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data," IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 1-17, 2026, Art no. 4408117 doi: 10.1109/TGRS.2026.3683514.  <br>
 
 @ARTICLE{11480897, <br>
   author={Hu, Wen-Shuai and Li, Wei and Li, Heng-Chao and Zhao, Xudong and Zhang, Mengmeng and Tao, Ran}, <br>
   journal={IEEE Transactions on Geoscience and Remote Sensing},  <br>
   title={Unsupervised Domain Adaptation with Extended Multimodal LSTM for End-to-end Classification of Multisource Remote Sensing Data},  <br>
   year={2026}, <br>
-  volume={}, <br>
+  volume={64}, <br>
   number={}, <br>
-  pages={1-1}, <br>
+  pages={1-17}, <br>
   keywords={Feeds;Antennas;Apertures;Filtering;Field programmable gate arrays;Filters;Pixel;LoRa;Radio access networks;Regional area networks;Unsupervised domain adaptation;multisource remote sensing data;extended multimodal long short-term memory (xMLSTM);cross-modal differential compensation;memory state;multimodal data generation;end-to-end classification}, <br>
   doi={10.1109/TGRS.2026.3683514}}
 
@@ -42,4 +42,4 @@ Contact Information:
 --------------------
 
 Wen-Shuai Hu: wshuswjtu@163.com<br>
-He is currently an Assistant Professor with the School of Information Science and Technology, Southwest Jiaotong University, Chengdu, China. 
+He is currently a Lecturer with the School of Information Science and Technology, Southwest Jiaotong University, Chengdu, China. 
